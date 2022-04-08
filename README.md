@@ -42,9 +42,9 @@ while (aging()){
 
 | 🎸 Fingerstyle/classical guitar 🎸  |   🏕️ Camping 🏕️  | 🥾 Hiking 🥾 |  🧶 Crochetting 🧶 |
 
-| 🏃 Running 🏃 | 💻 Coding 💻 |♟️ Chess ♟️ |🎮 Games 🎮 | 🐶 Petting random docile animals 🐶 | 
+| 🏃 Running 🏃 | 💻 Coding 💻 | ♟️ Chess ♟️ |🎮 Games 🎮 | 🐶 Petting random docile animals 🐶 | 
 
-| 🦜 Observe wild life 🦜 |   🌌 Stargazing 🌌    |   📘 Studying random scientific stuff 📘   |
+|  🦜 Observe wild life 🦜  |  🌌 Stargazing 🌌   |   📘 Studying random scientific stuff 📘   |
 
 PS: These may vary with time and my mood, but eventually I always come back to all of them 😅
 
