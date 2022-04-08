@@ -33,6 +33,21 @@ I'm studying System Analysis and Development at UNINTER and I'm also an ex-physi
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Hobbies 
+```js
+while (aging()){
+  hobbies.push(randomHobby());
+}
+```
+
+| 🎸 Fingerstyle/classical guitar 🎸  |   🏕️ Camping 🏕️  | 🥾 Hiking 🥾 |  🧶 Crochetting 🧶 |
+
+| 🏃 Running 🏃 | 💻 Coding 💻 |♟️ Chess ♟️ |🎮 Games 🎮 | 🐶 Petting random docile animals 🐶 | 
+
+| 🦜 Observe wild life 🦜 |   🌌 Stargazing 🌌    |   📘 Studying random scientific stuff 📘   |
+
+PS: These may vary with time and my mood, but eventually I always come back to all of them 😅
+
 ### Find me elsewhere
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianocts)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojulianocts@gmail.com)
