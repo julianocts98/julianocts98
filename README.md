@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm studying System Analysis and Development at UNINTER and I'm also an ex-physics student at UFSCAR, where I developed an undergraduate research on computational modelling of the behavior of emitted light by neutrinos at LArTPC experiments using [**GEANT4**](https://geant4.web.cern.ch/) and [**ROOT**](https://root.cern/).
+I'm a Java Developer at [VR Software](https://www.vrsoft.com.br/). 
+I'm also a System Analysis and Development student at UNINTER, as an ex-physics student at UFSCAR, where I developed an undergraduate research on computational modelling of the behavior of emitted light by neutrinos at LArTPC experiments using [**GEANT4**](https://geant4.web.cern.ch/) and [**ROOT**](https://root.cern/).
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
